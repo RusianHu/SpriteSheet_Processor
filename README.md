@@ -2,6 +2,12 @@
 
 精灵图的裁剪定位有点麻烦，让我们换个思路，裁掉所有边界和瓦片间隔的透明区域，把每个瓦片按照尺寸紧凑的拼接起来，变成一个新的精灵图，在利用资源的项目中按照尺寸比例裁剪，这不就方便多了（偷懒）？
 
+![image](https://github.com/user-attachments/assets/2f01e053-d5ba-4b7d-ab68-e77fb826f778)
+
+![image](https://github.com/user-attachments/assets/17042425-c539-4ace-8ab5-88b24cb030a7)
+
+
+
 ## 功能特性
 
 *   加载 PNG 格式的精灵图。
